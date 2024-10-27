@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "project-nova"
+version = "0.1.1"
+description = "A personal assistant project"
+authors = ["Ankush Roy <ankushroy7926@gmail.com> Arghya Sarkar <arghyasarkar.nolan@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyttsx3 = "^2.98"
+pyaudio = "^0.2.14"
+speechrecognition = "^3.11.0"
+botocore = "^1.35.47"
+google-generativeai = "^0.8.3"
+python-dotenv = "^1.0.1"
+ollama = "^0.3.3"
+
+[tool.poetry.scripts]
+nova = "project_nova.app:start"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
