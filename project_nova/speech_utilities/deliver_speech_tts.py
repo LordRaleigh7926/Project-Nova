@@ -13,7 +13,7 @@ def speak(ctx):
     with open("./project_nova/logs/log.txt", "a") as logs:
         logs.write(f"\n\n{datetime.datetime.now()}\nNova: {ctx}")
 
-    subprocess.Popen(["/usr/bin/flite", "-voice", "slt", ctx])
+    subprocess.run(["/usr/bin/flite", "-voice", "slt", ctx])
 
 
 def alt_speak(ctx):

@@ -39,3 +39,1407 @@ Gemini: Sir, my name is NOVA.  I'm at your service.
 
 2024-10-27 23:31:04.735531
 Nova: Sir, my name is NOVA.  I'm at your service. 
+
+
+2024-10-28 21:03:51.382218
+Nova: Nova Online
+
+2024-10-28 21:04:35.996610
+User: Nova
+
+2024-10-28 21:04:37.840435
+Gemini: At your service, sir. How may I assist you today? 
+
+
+2024-10-28 21:04:37.841209
+Nova: At your service, sir. How may I assist you today?
+
+2024-10-28 21:04:43.904574
+User: today
+
+2024-10-28 21:04:44.503666
+Gemini: Alright sir, let me check the date for you. 
+
+&&date&& 
+
+
+2024-10-28 21:04:44.504126
+Nova: Alright sir, let me check the date for you.
+
+2024-10-28 21:04:49.615948
+User: let me check today for
+
+2024-10-28 21:04:50.333213
+Gemini: Sir, please tell me what you'd like to check for today?  I can help you look through files, schedules, or anything else on your computer. 
+
+
+2024-10-28 21:04:50.333683
+Nova: Sir, please tell me what you'd like to check for today?  I can help you look through files, schedules, or anything else on your computer.
+
+2024-10-28 21:05:09.583941
+User: sir please tell me what you would like to check for today I can help you look profile schedules for anything else on your computer
+
+2024-10-28 21:05:10.300962
+Gemini: I am ready to assist you, sir. Please tell me what you'd like me to check today.  I can help you look up profiles, schedules, or anything else on your computer. 
+
+
+2024-10-28 21:05:10.301458
+Nova: I am ready to assist you, sir. Please tell me what you'd like me to check today.  I can help you look up profiles, schedules, or anything else on your computer.
+
+2024-10-28 21:05:13.577768
+User: I am very
+
+2024-10-28 21:05:14.192226
+Gemini: Sir, I understand you are very ...? Please continue your sentence. I am here to assist you. 
+
+
+2024-10-28 21:05:14.192716
+Nova: Sir, I understand you are very ...? Please continue your sentence. I am here to assist you.
+
+2024-10-28 21:24:49.135712
+User: hello Nov
+
+2024-10-28 21:24:54.664877
+User: hello Nova
+
+2024-10-28 21:24:56.508953
+Gemini: Greetings Sir. How can I be of service today? 
+
+
+2024-10-28 22:31:54.122361
+User: but on why
+
+2024-10-28 22:31:59.461955
+User: i mean
+
+2024-10-28 22:32:06.993486
+User: 
+
+2024-10-28 22:32:12.095970
+User: whoa
+
+2024-10-28 22:32:16.821867
+User: oh
+
+2024-10-28 22:32:20.716588
+User: 
+
+2024-10-28 22:32:24.710415
+User: 
+
+2024-10-28 22:32:40.069290
+User: oh
+
+2024-10-28 22:32:56.936477
+User: uh
+
+2024-10-28 22:33:40.672129
+User: the
+
+2024-10-28 22:33:44.978750
+User: 
+
+2024-10-28 22:33:51.226275
+User: the
+
+2024-10-28 22:34:01.849422
+User: uh
+
+2024-10-28 22:34:06.522522
+User: 
+
+2024-10-28 22:34:33.346404
+User: uh
+
+2024-10-28 22:34:37.592403
+User: 
+
+2024-10-28 22:34:52.210252
+User: oh
+
+2024-10-28 22:35:00.276584
+User: 
+
+2024-10-28 22:35:14.244124
+User: uh
+
+2024-10-28 22:35:19.298960
+User: 
+
+2024-10-28 22:35:22.889102
+User: 
+
+2024-10-28 22:35:27.044777
+User: 
+
+2024-10-28 22:35:31.880504
+User: 
+
+2024-10-28 22:35:37.176769
+User: the
+
+2024-10-28 22:35:43.236470
+User: you
+
+2024-10-28 22:35:51.865289
+User: yes
+
+2024-10-28 22:35:55.717389
+User: 
+
+2024-10-28 22:35:59.255639
+User: 
+
+2024-10-28 22:36:11.263460
+User: oh
+
+2024-10-28 22:36:16.300248
+User: 
+
+2024-10-28 22:36:26.070939
+User: 
+
+2024-10-28 22:36:29.957257
+User: 
+
+2024-10-28 22:36:36.698361
+User: 
+
+2024-10-28 22:36:46.339815
+User: 
+
+2024-10-28 22:37:00.679835
+User: and you are
+
+2024-10-28 22:37:17.532659
+User: uh
+
+2024-10-28 22:37:33.741387
+User: uh
+
+2024-10-28 22:37:39.176381
+User: 
+
+2024-10-28 22:37:47.667967
+User: 
+
+2024-10-28 22:37:54.213597
+User: 
+
+2024-10-28 22:38:01.108297
+User: 
+
+2024-10-28 22:38:06.054877
+User: i
+
+2024-10-28 22:38:09.025335
+User: 
+
+2024-10-28 22:38:14.405341
+User: 
+
+2024-10-28 22:38:29.676452
+User: three
+
+2024-10-28 22:38:39.238552
+User: 
+
+2024-10-28 22:38:49.659588
+User: to
+
+2024-10-28 22:39:05.930034
+User: up up
+
+2024-10-28 22:39:15.277946
+User: the
+
+2024-10-28 22:39:22.734234
+User: oh
+
+2024-10-28 22:39:27.083421
+User: 
+
+2024-10-28 22:39:30.714603
+User: 
+
+2024-10-28 22:39:36.675553
+User: i do
+
+2024-10-28 22:39:43.684645
+User: 
+
+2024-10-28 22:40:13.152425
+User: oh
+
+2024-10-28 22:40:17.815069
+User: 
+
+2024-10-28 22:40:20.955478
+User: 
+
+2024-10-28 22:40:27.454498
+User: 
+
+2024-10-28 22:40:34.640323
+User: 
+
+2024-10-28 22:40:39.472966
+User: 
+
+2024-10-28 22:40:52.722194
+User: i
+
+2024-10-28 22:41:12.264265
+User: oh
+
+2024-10-28 22:41:16.571278
+User: 
+
+2024-10-28 22:41:19.517093
+User: 
+
+2024-10-28 22:41:39.938293
+User: and
+
+2024-10-28 22:41:45.781017
+User: 
+
+2024-10-28 22:41:58.355695
+User: 
+
+2024-10-28 22:42:14.770591
+User: 
+
+2024-10-28 22:42:18.714193
+User: 
+
+2024-10-28 22:42:29.257861
+User: he left a
+
+2024-10-28 22:43:22.237605
+User: to
+
+2024-10-28 22:43:32.063205
+User: and
+
+2024-10-28 22:43:36.359015
+User: and
+
+2024-10-28 22:43:57.062428
+User: up
+
+2024-10-28 22:44:06.233842
+User: but
+
+2024-10-28 22:44:25.889959
+User: uh
+
+2024-10-28 22:44:30.167103
+User: 
+
+2024-10-28 22:44:45.256771
+User: the pope
+
+2024-10-28 22:45:07.589684
+User: uh
+
+2024-10-28 22:45:28.796083
+User: and at
+
+2024-10-28 22:45:42.161342
+User: but
+
+2024-10-28 22:46:02.135410
+User: the
+
+2024-10-28 22:46:12.995798
+User: if
+
+2024-10-28 22:46:17.621657
+User: oh
+
+2024-10-28 22:46:20.913137
+User: uh huh
+
+2024-10-28 22:46:34.470039
+User: no
+
+2024-10-28 22:46:46.196123
+User: and i
+
+2024-10-28 22:46:50.328265
+User: 
+
+2024-10-28 22:46:53.426715
+User: 
+
+2024-10-28 22:46:58.451631
+User: good
+
+2024-10-28 22:47:07.923038
+User: 
+
+2024-10-28 22:47:20.846795
+User: hey
+
+2024-10-28 22:47:41.172763
+User: the
+
+2024-10-28 22:47:46.137376
+User: the
+
+2024-10-28 22:48:11.387601
+User: the pope
+
+2024-10-28 22:48:18.037481
+User: uh
+
+2024-10-28 22:48:21.289472
+User: 
+
+2024-10-28 22:48:29.918155
+User: 
+
+2024-10-28 22:48:43.568015
+User: uh
+
+2024-10-28 22:48:53.995437
+User: ah
+
+2024-10-28 22:48:58.157550
+User: 
+
+2024-10-28 22:49:18.131544
+User: uh
+
+2024-10-28 22:49:23.686618
+User: 
+
+2024-10-28 22:49:28.071271
+User: 
+
+2024-10-28 22:49:33.466501
+User: 
+
+2024-10-28 22:49:38.021613
+User: 
+
+2024-10-28 22:49:41.621168
+User: 
+
+2024-10-28 22:49:49.179446
+User: 
+
+2024-10-28 22:49:52.650769
+User: 
+
+2024-10-28 22:49:56.909322
+User: 
+
+2024-10-28 22:50:02.600086
+User: 
+
+2024-10-28 22:50:12.528483
+User: 
+
+2024-10-28 22:50:26.626373
+User: 
+
+2024-10-28 22:50:33.555110
+User: oh
+
+2024-10-28 22:50:37.027174
+User: 
+
+2024-10-28 22:50:39.993251
+User: 
+
+2024-10-28 22:50:47.489561
+User: 
+
+2024-10-28 22:50:58.736025
+User: uh
+
+2024-10-28 22:51:04.696113
+User: 
+
+2024-10-28 22:51:10.873681
+User: but
+
+2024-10-28 22:51:28.941762
+User: two
+
+2024-10-28 22:51:44.365886
+User: the
+
+2024-10-28 22:51:51.173155
+User: 
+
+2024-10-28 22:51:56.411539
+User: 
+
+2024-10-28 22:52:12.714002
+User: oh
+
+2024-10-28 22:52:17.654128
+User: 
+
+2024-10-28 22:52:22.563979
+User: 
+
+2024-10-28 22:52:30.329235
+User: 
+
+2024-10-28 22:52:40.675751
+User: uh
+
+2024-10-28 22:52:47.378793
+User: uh
+
+2024-10-28 22:52:52.398658
+User: uh
+
+2024-10-28 22:52:59.217844
+User: 
+
+2024-10-28 22:53:02.265986
+User: 
+
+2024-10-28 22:53:21.313806
+User: to
+
+2024-10-28 22:53:26.816956
+User: oh
+
+2024-10-28 22:53:41.626771
+User: they
+
+2024-10-28 22:53:48.023709
+User: 
+
+2024-10-28 22:54:12.591932
+User: uh
+
+2024-10-28 22:54:36.850920
+User: oh
+
+2024-10-28 22:54:43.771795
+User: 
+
+2024-10-28 22:54:52.260925
+User: 
+
+2024-10-28 22:55:06.522928
+User: uh
+
+2024-10-28 22:55:10.323641
+User: 
+
+2024-10-28 22:55:28.817405
+User: oh
+
+2024-10-28 22:55:48.040720
+User: the
+
+2024-10-28 22:55:51.523232
+User: 
+
+2024-10-28 22:55:54.973309
+User: 
+
+2024-10-28 22:55:58.027522
+User: 
+
+2024-10-28 22:56:05.219569
+User: oh
+
+2024-10-28 22:56:27.121219
+User: uh
+
+2024-10-28 22:56:34.821266
+User: 
+
+2024-10-28 22:56:43.546357
+User: oh
+
+2024-10-28 22:56:47.914441
+User: yeah
+
+2024-10-28 22:56:56.228344
+User: oh
+
+2024-10-28 22:57:08.569328
+User: oh
+
+2024-10-28 22:57:27.549432
+User: uh
+
+2024-10-28 22:57:32.995367
+User: uh
+
+2024-10-28 22:57:39.536174
+User: oh
+
+2024-10-28 22:58:47.013757
+User: up up
+
+2024-10-28 22:58:52.670051
+User: 
+
+2024-10-28 22:59:26.748351
+User: what
+
+2024-10-28 22:59:46.531884
+User: uh
+
+2024-10-28 23:00:04.548871
+User: 
+
+2024-10-28 23:00:09.675810
+User: 
+
+2024-10-28 23:00:17.969047
+User: the
+
+2024-10-28 23:00:29.798718
+User: uh
+
+2024-10-28 23:00:34.226122
+User: 
+
+2024-10-28 23:00:39.612015
+User: 
+
+2024-10-28 23:00:48.773818
+User: 
+
+2024-10-28 23:00:52.802699
+User: 
+
+2024-10-28 23:00:56.548680
+User: 
+
+2024-10-28 23:01:11.927738
+User: 
+
+2024-10-28 23:01:17.195014
+User: 
+
+2024-10-28 23:01:40.431616
+User: yep
+
+2024-10-28 23:01:50.186062
+User: up
+
+2024-10-28 23:02:08.598139
+User: thank
+
+2024-10-28 23:02:17.092419
+User: the
+
+2024-10-28 23:02:22.992537
+User: 
+
+2024-10-28 23:02:30.366904
+User: 
+
+2024-10-28 23:02:55.540796
+User: oh
+
+2024-10-28 23:03:26.668720
+User: and
+
+2024-10-28 23:03:38.467177
+User: if
+
+2024-10-28 23:03:44.281833
+User: 
+
+2024-10-28 23:03:57.460003
+User: 
+
+2024-10-28 23:04:03.876673
+User: 
+
+2024-10-28 23:04:17.290537
+User: yeah
+
+2024-10-28 23:04:33.183029
+User: 
+
+2024-10-28 23:04:42.481475
+User: oh
+
+2024-10-28 23:04:47.402041
+User: 
+
+2024-10-28 23:04:51.246245
+User: 
+
+2024-10-28 23:04:55.511200
+User: 
+
+2024-10-28 23:05:00.834401
+User: 
+
+2024-10-28 23:05:06.632571
+User: 
+
+2024-10-28 23:05:51.130117
+User: keep the
+
+2024-10-28 23:05:57.255661
+User: 
+
+2024-10-28 23:06:00.685152
+User: 
+
+2024-10-28 23:06:03.489000
+User: 
+
+2024-10-28 23:06:13.916667
+User: 
+
+2024-10-28 23:06:26.763334
+User: 
+
+2024-10-28 23:06:30.346888
+User: 
+
+2024-10-28 23:06:51.301675
+User: uh
+
+2024-10-28 23:07:08.330338
+User: the
+
+2024-10-28 23:07:12.796194
+User: 
+
+2024-10-29 11:18:41.756905
+User: Nova
+
+2024-10-29 11:18:43.600328
+Gemini: At your service, Sir. How can I assist you today? 
+
+
+2024-10-29 11:23:06.564717
+User: Nova change my
+
+2024-10-29 11:23:08.408327
+Gemini: Sir, please tell me what you would like me to change? For example, change your desktop background, change your system settings, or change your file permissions. 
+
+
+2024-10-29 11:23:26.737592
+User: garage garage ceremony marriage reception management
+
+2024-10-29 11:23:27.454880
+Gemini: Sir, I am unable to access or modify files on your computer. I cannot directly interact with your files, such as creating or editing documents.  You may need to use a different tool for this task. 
+
+
+2024-10-29 11:25:12.416051
+Nova: Nova Online
+
+2024-10-29 11:28:28.210257
+Nova: Nova Online
+
+2024-10-29 11:28:40.800717
+User: Nova can you change my wallpaper to a picture named images in my pictures folder
+
+2024-10-29 11:28:42.848482
+Gemini: Okay Sir, I can do that.  
+
+Give me the full path to your "pictures" folder.
+
+&&gsettings set org.gnome.desktop.background picture-uri "path/to/picture" && 
+
+
+2024-10-29 11:28:42.849252
+Nova: Okay Sir, I can do that.  
+
+Give me the full path to your "pictures" folder.
+
+2024-10-29 13:38:27.930753
+Nova: Nova Online
+
+2024-10-29 13:38:36.758374
+User: Nova change my wallpaper to the first image in my pictures
+
+2024-10-29 13:38:38.601993
+Gemini: Sir, please tell me the path to your Pictures folder. 
+
+
+2024-10-29 13:38:38.602710
+Nova: Sir, please tell me the path to your Pictures folder.
+
+2024-10-29 13:39:00.793648
+User: yeah it's to pick its in a folder called Marvel with a capital M inside my pictures folder with the capital p
+
+2024-10-29 13:39:01.426213
+Gemini: Okay sir, could you please tell me the name of the image file you want to pick? I need the exact name of the image file to be able to access it. 
+
+
+2024-10-29 13:39:01.426765
+Nova: Okay sir, could you please tell me the name of the image file you want to pick? I need the exact name of the image file to be able to access it.
+
+2024-10-29 13:39:15.260509
+User: well my
+
+2024-10-29 13:39:15.857502
+Gemini: Sir, I am ready to assist you. How can I be of service? 
+
+
+2024-10-29 13:39:15.857707
+Nova: Sir, I am ready to assist you. How can I be of service?
+
+2024-10-29 13:58:55.229612
+Nova: Nova Online
+
+2024-10-29 13:58:59.972088
+User: hello Nova
+
+2024-10-29 13:59:01.885326
+Gemini: Greetings Sir,  at your service.  How can I be of assistance today? 
+
+
+2024-10-29 13:59:01.885662
+Nova: Greetings Sir,  at your service.  How can I be of assistance today?
+
+2024-10-29 13:59:18.195509
+User: change my wallpaper to the one with the picture in my pictures folder
+
+2024-10-29 13:59:18.824546
+Gemini: Alright sir, I'll need the name of the picture file first. Can you tell me what it's called?  &&  &&
+
+
+2024-10-29 13:59:18.824989
+Nova: Alright sir, I'll need the name of the picture file first. Can you tell me what it's called?
+
+2024-10-29 13:59:46.937648
+User: well my path is there is a picture is in the Marvel's folder which is inside the pictures folder
+
+2024-10-29 13:59:47.555058
+Gemini: Okay sir, I understand. Is the Marvel's folder in your Pictures directory? 
+
+
+2024-10-29 13:59:47.555490
+Nova: Okay sir, I understand. Is the Marvel's folder in your Pictures directory?
+
+2024-10-29 14:00:01.275626
+User: 1 second let me just check the name
+
+2024-10-29 14:00:01.788994
+Gemini: Alright sir, what would you like me to check? 
+
+
+2024-10-29 14:00:01.789475
+Nova: Alright sir, what would you like me to check?
+
+2024-10-29 14:00:50.940674
+User: where is the name of the picture is cyberpunk city there is a space between cypher
+
+2024-10-29 14:00:51.453060
+Gemini: Sir, could you please tell me the path of the directory where you are looking for the image? 
+
+
+2024-10-29 14:00:51.453437
+Nova: Sir, could you please tell me the path of the directory where you are looking for the image?
+
+2024-10-29 14:01:08.450611
+User: ok well it's in the picture home slash pictures slash wallpapers
+
+2024-10-29 14:01:09.168367
+Gemini: Understood Sir, but I need the full path for the command to work. Could you please provide the complete path to the image, including the file name? 
+
+
+2024-10-29 14:01:09.168762
+Nova: Understood Sir, but I need the full path for the command to work. Could you please provide the complete path to the image, including the file name?
+
+2024-10-29 14:01:31.696469
+User: ok so it's home slash pictures a slash 1 2 47748.0
+
+2024-10-29 14:01:32.318625
+Gemini: Ok sir, so you want me to open the file "1247748.0" which is located in the directory "home/pictures". 
+
+&&xdg-open home/pictures/1247748.0 && 
+
+
+2024-10-29 14:01:32.319137
+Nova: Ok sir, so you want me to open the file "1247748.0" which is located in the directory "home/pictures".
+
+2024-10-29 14:01:59.773566
+User: no I want you to change that to my wallpaper the extension is not GP
+
+2024-10-29 14:02:00.265817
+Gemini: Sorry sir but that won't be possible with my current configurations 
+
+
+2024-10-29 14:02:00.266280
+Nova: Sorry sir but that won't be possible with my current configurations
+
+2024-10-29 14:02:13.818357
+User: give me the command
+
+2024-10-29 14:02:14.397462
+Gemini: Sir, please tell me what command you want me to give you. I need more information to assist you. 
+
+
+2024-10-29 14:02:14.397905
+Nova: Sir, please tell me what command you want me to give you. I need more information to assist you.
+
+2024-10-29 14:02:30.371213
+User: can you please name the file which I told you to
+
+2024-10-29 14:02:30.986453
+Gemini: Sir, please provide me with the file name. I need to know the name of the file in order to rename it. 
+
+
+2024-10-29 14:02:30.986831
+Nova: Sir, please provide me with the file name. I need to know the name of the file in order to rename it.
+
+2024-10-29 14:02:46.345584
+User: hello Nova
+
+2024-10-29 14:02:46.961239
+Gemini: Greetings Sir,  at your service. How can I assist you today? 
+
+
+2024-10-29 14:02:46.961616
+Nova: Greetings Sir,  at your service. How can I assist you today?
+
+2024-10-29 14:03:34.577643
+Nova: Nova Online
+
+2024-10-29 14:04:04.618646
+User: hello Nova can you change the wallpaper to another picture which is in my directory pictures slash Marvel sorry sorry it's home slash pictures slash 1247784.0 PNG
+
+2024-10-29 14:05:39.915561
+Nova: Nova Online
+
+2024-10-29 14:05:44.318939
+User: hello Nova
+
+2024-10-29 14:05:46.163713
+Gemini: Greetings Sir, how can I be of service today? 
+
+
+2024-10-29 14:05:46.164449
+Nova: Greetings Sir, how can I be of service today?
+
+2024-10-29 14:06:08.486263
+User: will change my wallpaper to the picture in home slash pictures slash 1 2 47748.2 PNG
+
+2024-10-29 14:06:09.100952
+Gemini: Understood Sir, just tell me the full path to the image please. 
+
+
+
+
+2024-10-29 14:06:09.101206
+Nova: Understood Sir, just tell me the full path to the image please.
+
+2024-10-29 14:06:27.674386
+User: OK so the path is home slash pictures slash 1247748.0 PNG
+
+2024-10-29 14:06:28.352937
+Gemini: Alright Sir, I am setting your wallpaper now.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/pictures/1247748.0.png&& 
+
+
+2024-10-29 14:06:28.353344
+Nova: Alright Sir, I am setting your wallpaper now.
+
+2024-10-29 14:10:27.869836
+Nova: Nova Online
+
+2024-10-29 14:10:58.078136
+Nova: Nova Online
+
+2024-10-29 14:11:07.497269
+User: Nova open my code files in my file
+
+2024-10-29 14:11:09.545887
+Gemini: Sure, sir.  I'll open your CodeFiles folder in your file manager.
+
+&&nautilus ~/Documents/CodeFiles&& 
+
+
+2024-10-29 14:11:09.546882
+Nova: Sure, sir.  I'll open your CodeFiles folder in your file manager.
+
+2024-10-29 14:23:54.582199
+Nova: Nova Online
+
+2024-10-29 14:24:00.519575
+User: hello Nov
+
+2024-10-29 14:24:04.820719
+User: hello Nova
+
+2024-10-29 14:24:06.665764
+Gemini: Greetings Sir. How can I be of assistance today? 
+
+
+2024-10-29 14:24:06.666490
+Nova: Greetings Sir. How can I be of assistance today?
+
+2024-10-29 14:24:17.108636
+User: well change my wallpaper to 1.0 GP
+
+2024-10-29 14:24:17.826003
+Gemini: Sure Sir. Changing your wallpaper to 1.jpg. 
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg &&
+
+
+2024-10-29 14:24:17.826450
+Nova: Sure Sir. Changing your wallpaper to 1.jpg.
+
+2024-10-29 14:26:02.377243
+Nova: Nova Online
+
+2024-10-29 14:26:11.796762
+User: hello Nova can I change my wallpaper to wonder JPG
+
+2024-10-29 14:26:13.894472
+Gemini: Sure sir, let's get that done.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/wonder.jpg&& 
+
+
+2024-10-29 14:26:13.895164
+Nova: Sure sir, let's get that done.
+
+2024-10-29 14:26:33.506584
+User: change my wallpaper to 1.0 J
+
+2024-10-29 14:26:34.121297
+Gemini: Sorry sir, but that won't be possible with my current configurations. I can only change the wallpaper to a valid image file. 
+
+
+2024-10-29 14:26:34.121814
+Nova: Sorry sir, but that won't be possible with my current configurations. I can only change the wallpaper to a valid image file.
+
+2024-10-29 14:35:40.940997
+Nova: Nova Online
+
+2024-10-29 14:35:55.582433
+User: hello Nova change my wallpaper to 1.jpg
+
+2024-10-29 14:35:57.631693
+Gemini: Alright sir, changing your wallpaper to 1.jpg. 
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 14:35:57.632362
+Nova: Alright sir, changing your wallpaper to 1.jpg.
+
+2024-10-29 14:37:32.659187
+User: can you change my wallpaper to the third picture
+
+2024-10-29 14:37:33.345800
+Gemini: Of course sir, changing your wallpaper to the third image in your Wallpaper folder. 
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/3.jpg&& 
+
+
+2024-10-29 14:37:33.346455
+Nova: Of course sir, changing your wallpaper to the third image in your Wallpaper folder.
+
+2024-10-29 15:42:09.037463
+Nova: Nova Online
+
+2024-10-29 15:42:13.947904
+User: hello Nova
+
+2024-10-29 15:42:15.791674
+Gemini: Greetings, sir. How can I be of service today? 
+
+
+2024-10-29 15:42:15.792346
+Nova: Greetings, sir. How can I be of service today?
+
+2024-10-29 15:42:28.488357
+User: well can you change my wallpaper to the first image in my folder
+
+2024-10-29 15:42:29.308741
+Gemini: Affirmative, sir. I'll set the first image in your Wallpapers folder as your background. 
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 16:15:43.815104
+Nova: Nova Online
+
+2024-10-29 16:15:51.856291
+User: hello Nova
+
+2024-10-29 16:15:53.698831
+Gemini: Greetings Sir. How can I be of service today? 
+
+
+2024-10-29 16:15:53.699457
+Nova: Greetings Sir. How can I be of service today?
+
+2024-10-29 16:16:05.371632
+User: change my wallpaper to the second image audit note to the first
+
+2024-10-29 16:16:06.141861
+Gemini: Sure, Sir. Let me do that. 
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/2.jpg &&
+&&gsettings set org.gnome.desktop.background picture-options "zoom" && 
+
+
+2024-10-29 16:20:43.448126
+Nova: Nova Online
+
+2024-10-29 16:20:56.496394
+User: well hello Nova can you change my wallpaper to the 60 to the first
+
+2024-10-29 16:20:58.544950
+Gemini: Sure sir. 
+
+Let's get this done.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 16:20:58.561530
+Nova: Sure sir. 
+
+Let's get this done.
+
+2024-10-29 16:21:21.481790
+User: Nova change my wallpaper to the first
+
+2024-10-29 16:21:22.041897
+Gemini: Sure, Sir. Let's do this.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 16:21:22.054849
+Nova: Sure, Sir. Let's do this.
+
+2024-10-29 16:22:39.306465
+User: peace out
+
+2024-10-29 16:25:19.594356
+Nova: Nova Online
+
+2024-10-29 16:25:27.857671
+User: hello Nova can you change my wallpaper to the first image
+
+2024-10-29 16:25:29.736999
+Gemini: Sure Sir, changing your wallpaper to the first image.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 16:25:29.749734
+Nova: Sure Sir, changing your wallpaper to the first image.
+
+2024-10-29 16:26:28.171144
+User: Belgaum why did not change remember it that I use dark mode so picture you are I dark should be
+
+2024-10-29 16:26:28.991297
+Gemini: Apologies Sir, you're right. I should have considered the dark mode setting. Let me try that again.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+&&gsettings set org.gnome.desktop.background picture-options "picture-uri-dark"&& 
+
+
+2024-10-29 16:26:29.007575
+Nova: Apologies Sir, you're right. I should have considered the dark mode setting. Let me try that again.
+
+2024-10-29 16:27:19.311509
+User: will it still did not change remember to use set or G settings set or not desktop background picture you are a dark then the file part
+
+2024-10-29 16:27:20.601713
+Gemini: My apologies Sir, I'm still having trouble getting this right. It seems there's a misunderstanding in the command structure. Let me try to break it down for you:
+
+1. We need to target the `org.gnome.desktop.background` schema.
+2. Within that schema, the key we need to modify is `picture-uri`.
+3. We need to set the value of `picture-uri` to the path of your image.
+4. We need to specify that you want the `picture-uri-dark` option for dark mode.
+
+I'll try to be more precise in my next attempt.
+
+&&gsettings set org.gnome.desktop.background picture-uri "file:///home/lordraleigh/Pictures/Wallpapers/1.jpg"&& 
+&&gsettings set org.gnome.desktop.background picture-options "picture-uri-dark"&& 
+
+
+2024-10-29 16:27:20.620706
+Nova: My apologies Sir, I'm still having trouble getting this right. It seems there's a misunderstanding in the command structure. Let me try to break it down for you:
+
+1. We need to target the `org.gnome.desktop.background` schema.
+2. Within that schema, the key we need to modify is `picture-uri`.
+3. We need to set the value of `picture-uri` to the path of your image.
+4. We need to specify that you want the `picture-uri-dark` option for dark mode.
+
+I'll try to be more precise in my next attempt.
+
+2024-10-29 16:28:32.683860
+Nova: Nova Online
+
+2024-10-29 16:28:46.002668
+User: hello Nova can you change my wallpaper to the first image I use dark mode to remember that I
+
+2024-10-29 16:28:47.949701
+Gemini: Certainly, Sir! I can help you with that.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg &&
+
+
+2024-10-29 16:28:47.961748
+Nova: Certainly, Sir! I can help you with that.
+
+2024-10-29 16:29:35.155047
+User: views pictures
+
+2024-10-29 16:29:35.770736
+Gemini: Sorry Sir, but that won't be possible with my current configurations. I can only change your wallpaper. 
+
+
+2024-10-29 16:29:35.771122
+Nova: Sorry Sir, but that won't be possible with my current configurations. I can only change your wallpaper.
+
+2024-10-29 16:29:51.949023
+User: let's review my pictures open pictures
+
+2024-10-29 16:29:52.433497
+Gemini: Sorry Sir, but that won't be possible with my current configurations. I can only change your wallpaper. 
+
+
+2024-10-29 16:29:52.433653
+Nova: Sorry Sir, but that won't be possible with my current configurations. I can only change your wallpaper.
+
+2024-10-29 16:31:56.732260
+Nova: Nova Online
+
+2024-10-29 16:32:05.274419
+User: hello Nova can you change my wallpaper to the first image
+
+2024-10-29 16:32:07.323561
+Gemini: Greetings Sir, 
+
+I have changed your wallpaper to the first image.
+
+&&gsettings set org.gnome.desktop.background picture-uri file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 16:32:07.335895
+Nova: Greetings Sir, 
+
+I have changed your wallpaper to the first image.
+
+2024-10-29 16:32:23.125206
+User: Google can you change the world will can you change the wallpaper of my dark smooth style to the
+
+2024-10-29 16:32:24.014447
+Gemini: Sir, I understand you're looking for a wallpaper change to match your dark smooth style aesthetic.  Please specify the image you want to use from your Wallpaper folder, such as "the one with the mountain," or "the abstract one."  I need more information to execute the command. 
+
+
+2024-10-29 16:32:24.015054
+Nova: Sir, I understand you're looking for a wallpaper change to match your dark smooth style aesthetic.  Please specify the image you want to use from your Wallpaper folder, such as "the one with the mountain," or "the abstract one."  I need more information to execute the command.
+
+2024-10-29 16:33:47.258772
+Nova: Nova Online
+
+2024-10-29 16:34:07.847535
+User: Google can you change no work can you change my wallpaper to the first image also remember that I use dark mode in Chrome so you picture hyphen Uri hyphen dark in the command
+
+2024-10-29 17:16:25.029685
+Nova: Nova Online
+
+2024-10-29 17:16:31.270641
+User: hello Nova can you change my
+
+2024-10-29 17:16:33.319338
+Gemini: Hello Sir, I am at your service. What would you like me to change? Please be specific. For example, "Change my wallpaper to the picture 3.jpg in the folder ~/Pictures/Wallpapers/".  
+
+
+2024-10-29 17:16:33.320001
+Nova: Hello Sir, I am at your service. What would you like me to change? Please be specific. For example, "Change my wallpaper to the picture 3.jpg in the folder ~/Pictures/Wallpapers/".
+
+2024-10-29 17:17:13.418321
+Nova: Nova Online
+
+2024-10-29 17:17:25.952536
+User: hello Nova can you change my wallpaper to the 6th image
+
+2024-10-29 17:17:27.078521
+Gemini: Alright Sir, changing your wallpaper to the 6th image. 
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/6.jpg&& 
+
+
+2024-10-29 17:17:27.085959
+Nova: Alright Sir, changing your wallpaper to the 6th image.
+
+2024-10-29 17:17:35.475550
+User: peace out
+
+2024-10-29 17:17:54.419803
+User: let's see I have
+
+2024-10-29 17:18:02.407085
+User: hello Nova can you change my wallpaper to the first image
+
+2024-10-29 17:18:03.021416
+Gemini: Understood Sir, switching to the first image now. 
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 17:18:03.035136
+Nova: Understood Sir, switching to the first image now.
+
+2024-10-29 17:18:09.984663
+User: hello Nova peace out
+
+2024-10-29 17:18:22.989195
+User: satellite to Sai baba I don't
+
+2024-10-29 17:18:54.955701
+User: I mean can a wall
+
+2024-10-29 17:19:02.106909
+User: video
+
+2024-10-29 17:19:12.755935
+User: once again
+
+2024-10-29 17:19:22.483347
+User: project all the system rsv project Nova
+
+2024-10-29 17:19:23.610875
+Gemini: Sir, projecting all the system's reserved projects. I'll need some more information to do that. Could you tell me:
+
+1. **What specific system are we talking about?** (e.g., a specific server, a local machine, etc.)
+2. **What tool or method are we using to manage these reserved projects?** (e.g., a specific command-line utility, a web interface, etc.)
+3. **What format do you want the results in?** (e.g., a list, a table, a file, etc.)
+
+Once I have this information, I can give you the exact commands to retrieve and display the projects.  
+
+
+2024-10-29 17:19:23.611225
+Nova: Sir, projecting all the system's reserved projects. I'll need some more information to do that. Could you tell me:
+
+1. **What specific system are we talking about?** (e.g., a specific server, a local machine, etc.)
+2. **What tool or method are we using to manage these reserved projects?** (e.g., a specific command-line utility, a web interface, etc.)
+3. **What format do you want the results in?** (e.g., a list, a table, a file, etc.)
+
+Once I have this information, I can give you the exact commands to retrieve and display the projects.
+
+2024-10-29 17:20:07.744597
+User: peace out
+
+2024-10-29 19:02:16.339531
+Nova: Nova Online
+
+2024-10-29 19:02:21.541462
+User: Nova
+
+2024-10-29 19:02:23.445319
+Gemini: At your service, Sir. What can I do for you today? 
+
+
+2024-10-29 19:02:23.445623
+Nova: At your service, Sir. What can I do for you today?
+
+2024-10-29 19:02:33.932918
+User: is my wallpaper to the sixth image
+
+2024-10-29 19:02:34.752568
+Gemini: Let me check that for you, Sir. 
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/6.jpg&&
+
+
+2024-10-29 19:02:34.770239
+Nova: Let me check that for you, Sir.
+
+2024-10-29 19:02:42.022551
+User: well I don't like it change it back
+
+2024-10-29 19:02:42.731497
+Gemini: My apologies, Sir.  I shall revert to the previous wallpaper.
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/1.jpg&& 
+
+
+2024-10-29 19:02:42.748191
+Nova: My apologies, Sir.  I shall revert to the previous wallpaper.
+
+2024-10-29 19:02:50.828515
+User: increase the volume
+
+2024-10-29 19:02:51.545677
+Gemini: Right away, Sir.  
+
+&&amixer -D pulse sset Master 10%+&& 
+
+Is that to your liking? 
+
+
+
+
+2024-10-29 19:02:51.550962
+Nova: Right away, Sir.  
+
+ 
+
+Is that to your liking?
+
+2024-10-29 19:03:03.526068
+User: will I don't like this change it to the 5th image
+
+2024-10-29 19:03:04.257146
+Gemini: Understood, Sir.  I'll change the wallpaper to the fifth image. 
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/5.jpg&&
+
+Let me know if there's anything else you need. 
+
+
+2024-10-29 19:03:04.274590
+Nova: Understood, Sir.  I'll change the wallpaper to the fifth image. 
+
+
+
+Let me know if there's anything else you need.
+
+2024-10-29 19:03:15.917522
+User: the third image
+
+2024-10-29 19:03:16.634384
+Gemini: Of course, Sir.  I'll switch to the third image. 
+
+&&gsettings set org.gnome.desktop.background picture-uri-dark file:///home/lordraleigh/Pictures/Wallpapers/3.jpg&& 
+ 
+Anything else for me? 
+
+
+2024-10-29 19:03:16.648800
+Nova: Of course, Sir.  I'll switch to the third image. 
+
+ 
+ 
+Anything else for me?
+
+2024-10-29 19:03:32.814289
+User: make this is the heaven
+
+2024-10-29 19:03:33.633198
+Gemini: Sir, you want to change the wallpaper to "Heaven" ?  
+
+Please provide me with the image file you would like to set as your wallpaper. If you have it in your "Wallpapers" folder, let me know the filename. 
+
+
+2024-10-29 19:03:33.633705
+Nova: Sir, you want to change the wallpaper to "Heaven" ?  
+
+Please provide me with the image file you would like to set as your wallpaper. If you have it in your "Wallpapers" folder, let me know the filename.

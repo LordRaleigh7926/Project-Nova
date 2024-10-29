@@ -15,6 +15,10 @@ botocore = "^1.35.47"
 google-generativeai = "^0.8.3"
 python-dotenv = "^1.0.1"
 ollama = "^0.3.3"
+pocketsphinx = "^5.0.3"
+python-vlc = "^3.0.21203"
+youtube-dl = "^2021.12.17"
+yt-dlp = "^2024.10.22"
 
 [tool.poetry.scripts]
 nova = "project_nova.app:start"

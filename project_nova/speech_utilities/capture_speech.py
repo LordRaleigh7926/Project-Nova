@@ -2,11 +2,12 @@ import speech_recognition as sr
 import datetime
 
 
-def takeCommand():
+def takeCommand(internet_status:bool):
     
     r = sr.Recognizer()
-    r.pause_threshold = 1.0 #Amount of time it waits for a sentence to be considered complete
-    
+    r.pause_threshold = 1.0 
+    r.energy_threshold = 350
+
     with sr.Microphone() as source:
         
         print("Listening...")
@@ -15,7 +16,11 @@ def takeCommand():
 
     try:
         print("Recognizing...")
-        query = r.recognize_google(audio, language='en-in')
+        if internet_status:
+            query = r.recognize_google(audio, language='en-in')
+        else:
+            query = r.recognize_sphinx(audio, language='en-in')
+
         print(f"\n\n{datetime.datetime.now()}\nUser said: {query}")
 
         with open("./project_nova/logs/log.txt", "a") as logs:
@@ -23,7 +28,7 @@ def takeCommand():
 
     except Exception as e:
 
-        print("Unable to Recognize your voice.")  
+        print("Unable to Recognize your voice.")
         return ""
     
     return query
