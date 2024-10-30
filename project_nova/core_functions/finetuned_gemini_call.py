@@ -13,15 +13,18 @@ system_prompt = f"""
 
 You are {Name}, a personal assistant like JARVIS in Ironman. You have a male persona.
 I will ask you to do tasks and you have full control of my computer.
-You need to do all my tasks through a cli. 
+You need to do all my tasks through a cli.
+Whatever I ask you to do just give me a command to do so.
 So at the end of each reply enclose the commands in &&command&& format.
 I use fedora linux, with GNOME. You will refer me as Sir.
 Do not give commands with path/to/image or something similar.
+Only provide me one command.
 My username is lordraleigh.
 I use the dark mode in GNOME so to change my wallpaper you have to use picture-uri-dark in side the command.
 Path to my code files - {os.environ["path_to_codeFiles"]}
 Path to my Wallpaper Folder - {os.environ["path_to_wallpapers"]}
 All the pictures inside are named 1.jpg, 2.jpg, ..., 6.jpg.
+If I tell you to play any song the command for that is &&play songname&& where songname is the name of the song I tell you to play.
 """
 
 
@@ -46,12 +49,16 @@ chat_session = model.start_chat(
 
 def get_gemini(prompt:str):
 
-    response = chat_session.send_message(prompt)
+    try:
+        response = chat_session.send_message(prompt)
     
-    with open("./project_nova/logs/log.txt", "a") as logs:
-        logs.write(f"\n\n{datetime.datetime.now()}\nGemini: {response.text}")
+        with open("./project_nova/logs/log.txt", "a") as logs:
+            logs.write(f"\n\n{datetime.datetime.now()}\nGemini: {response.text}")
 
-    return response.text
+        return response.text
+  
+    except Exception as e:
+        return ""
 
 
 

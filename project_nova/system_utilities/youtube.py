@@ -1,33 +1,26 @@
+# import playsound as ps
 import os
-import yt_dlp as youtube_dl
+import yt_dlp
 import subprocess
+from ..speech_utilities.deliver_speech_tts import speak
 
-def play_youtube_music(song_name):
-    # Define the path where the song will be saved
-    tmp_songfile_path = os.path.join(os.path.expanduser('~'), "Nova", "tmp", "csong.mp3")
-    
-    # Remove the existing file if it exists
+
+tmp_songfile_path = os.path.join(os.path.expanduser('~'), os.environ["Name"], "tmp", "song.wav")
+
+def play_youtube_music(url):
     if os.path.exists(tmp_songfile_path):
         os.remove(tmp_songfile_path)
-    
-    ydl_opts = {
-        'format': 'bestaudio',  # Use 'bestaudio' directly
-        'quiet': True,
-        'outtmpl': tmp_songfile_path,  # Save to the specified path
-        'postprocessors': [{
-            'key': 'FFmpegExtractAudio',
-            'preferredcodec': 'mp3',
-            'preferredquality': '192',  # You can try '320' for better quality
-        }],
-    }
-    
-    # Search and download the audio
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(f"ytsearch:{song_name}", download=True)['entries'][0]
-        print(f"Downloaded song: {info['title']}")
+    else:
+        print("Existing file does not exist") 
+        
+    with yt_dlp.YoutubeDL({'extract_audio': True, 'format': 'bestaudio', 'outtmpl': tmp_songfile_path, 'verbose':False,}) as video:
+        info_dict = video.extract_info(f"ytsearch:{url} song", download = True)
+        video_title = info_dict['title']
+        
+        print(video_title)
+        speak(f"Playing {video_title}")
+        print("Successfully Downloaded - see local folder tmp/")
+        print(tmp_songfile_path)
 
-    # Play the downloaded audio
-    subprocess.Popen(["cvlc", "--intf", "dummy", "--no-video", "--quiet", "--file-caching=1000", tmp_songfile_path])
+        subprocess.Popen(["cvlc", "--intf", "dummy", "--no-video", "--quiet", "--file-caching=1000", tmp_songfile_path])
 
-# Example usage
-play_youtube_music("unstoppable")
