@@ -1,0 +1,13 @@
+{
+    "config": {
+        "name": "Assistant Name",
+        "lang": "en-in", 
+        "user_name": "username",
+        "speech": {
+            "engine": "flite"
+        },
+        "keys": {
+            "GEMINI_KEY": "key"
+        }
+    }
+}
