@@ -2,7 +2,6 @@
 from .speech_utilities.capture_speech import takeCommand
 from .speech_utilities.deliver_speech_tts import speak, alt_speak
 
-
 # Main AI, models imports
 from .core_functions.finetuned_gemini_call import get_gemini
 from .core_functions.llama_call import process_command_with_ollama
@@ -13,15 +12,14 @@ from .system_utilities.command_terminal import issue_commands
 # Other functions
 from .other_functions import internet_status, preprocess_response_gemini
 
-
-# General
-import os 
-from dotenv import load_dotenv
+# Config stuff
+from .config import load_config
 
 
-load_dotenv()
+config = load_config()
 
-Name = str(os.environ["Name"])
+Name = config["name"]
+
 
 internet_access = internet_status()
 nova_listening = False
@@ -57,5 +55,5 @@ while True:
 
                 speak(response)
 
-        print("nova_listening:", nova_listening)
+        print(f"{Name}_listening:", nova_listening)
 

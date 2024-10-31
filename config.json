@@ -1,0 +1,13 @@
+{
+    "config": {
+        "name": "Nova",
+        "lang": "en-in",
+        "user_name": "lordraleigh",
+        "speech": {
+            "engine": "flite"
+        },
+        "keys": {
+            "GEMINI_KEY": "AIzaSyA2FOLAdhYvq4UuDApT3r7joPY8wWZbTk4"
+        }
+    }
+}

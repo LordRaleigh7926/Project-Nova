@@ -2,12 +2,15 @@ import os
 from dotenv import load_dotenv
 import google.generativeai as genai
 import datetime
+from ..config import load_config
 
+
+config = load_config()
 
 load_dotenv()
 
-genai.configure(api_key=os.environ["Gemini_key"])
-Name = os.environ["Name"]
+genai.configure(api_key=config["keys"]["GEMINI_KEY"])
+Name = config["name"]
 
 system_prompt = f"""
 
@@ -25,6 +28,7 @@ Path to my code files - {os.environ["path_to_codeFiles"]}
 Path to my Wallpaper Folder - {os.environ["path_to_wallpapers"]}
 All the pictures inside are named 1.jpg, 2.jpg, ..., 6.jpg.
 If I tell you to play any song the command for that is &&play songname&& where songname is the name of the song I tell you to play.
+
 """
 
 

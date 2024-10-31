@@ -3,9 +3,13 @@ import os
 import yt_dlp
 import subprocess
 from ..speech_utilities.deliver_speech_tts import speak
+from ..config import load_config
 
 
-tmp_songfile_path = os.path.join(os.path.expanduser('~'), os.environ["Name"], "tmp", "song.wav")
+config = load_config()
+Name = config["name"]
+
+tmp_songfile_path = os.path.join(os.path.expanduser('~'), Name, "tmp", "song.wav")
 
 def play_youtube_music(url):
     if os.path.exists(tmp_songfile_path):
